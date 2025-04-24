@@ -1,2 +1,2 @@
 # COVISAFE
-Social Distanching And face mask Dtection
+Console Application For Social Distanching And face mask Detection
